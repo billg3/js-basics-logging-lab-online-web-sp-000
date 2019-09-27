@@ -1,3 +1,3 @@
 const driver = 'bob';
 
-console.log(spy)
+console.log('this code was called')
